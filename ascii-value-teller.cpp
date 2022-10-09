@@ -7,4 +7,5 @@ int main()
 	cin >> x;
 	cout << "The ascii value of x is: " << x << " is " << int(x);
 	return 0;
+	
 }
