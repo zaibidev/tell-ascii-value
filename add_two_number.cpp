@@ -6,6 +6,7 @@ int addition(int a, int b);
 
 int main()
 {
+    // global variables
     int num1; // to store first number
     int num2; // to store second number
     int add;  // to store addition
