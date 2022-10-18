@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// entry function of the program
 int main()
 
     {
