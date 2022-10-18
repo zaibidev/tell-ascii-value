@@ -28,5 +28,5 @@ int main()
 // function definition
 int multiplication(int a, int b)
 {
-    return (a * b);
+    return (a * b); // it will simply multiply two numbers and return the computed result
 }
