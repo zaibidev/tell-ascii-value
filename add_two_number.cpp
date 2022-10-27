@@ -10,6 +10,9 @@ int main()
     int num1; // to store first number
     int num2; // to store second number
     int add;  // to store addition
+    
+    cout << "----Welcome----";
+
 
     // read numbers
     cout << "Enter first number: ";
